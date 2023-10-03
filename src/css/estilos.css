@@ -54,9 +54,9 @@ main .personagem .imagem {
 }
 
 .conteudo .logo {
-    background-image: url("../imagens/itadori.png");
+    background-image: url("../imagens/jujutsuKaisen.png");
     background-size: cover;
-    width: 100px;
+    width: 200px;
     height: 100px;
     margin-bottom: 15px;
 }
